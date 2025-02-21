@@ -1,6 +1,6 @@
 import requests
 
-api_key = "dda80dd5df8c5c8e008670e2d525649ae678f310af6e5a6351d1ab5d9a6a357b"  # Replace with your VirusTotal API key
+api_key = "YPUR_API_KEY"  # Replace with your VirusTotal API key
 
 
 def link_scan():
